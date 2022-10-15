@@ -1,0 +1,5 @@
+git is light weight
+git is version control
+git has more features
+its better than SVN 
+Git is fast
